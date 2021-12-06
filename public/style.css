@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.panda-slide .carousel-item {
+    background-color: #FCEAE8;
+    border-radius: 1rem;
+}
+
+.panda-category img {
+    width: 100px;
+}
+
+.panda-button {
+    background-color: #ff2d7f;
+    color: red;
+}
+
+button.panda-button {
+    background-color: #ff2d7f;
+    color: white;
+    border: 1px solid #ff2d7f;
+}
+
+.panda-mail {
+    background-color: #FCEAE8;
+}
+
+.panda-card-footer {
+    background-color: white;
+}
+
+.card.panda-card {
+    border: none;
+}
+
+.card-footer.panda-card-footer {
+    background: white;
+    border: none;
+}
+
+.price {
+    color: #ff2d7f;
+    font-weight: 700;
+}
